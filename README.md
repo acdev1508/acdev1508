@@ -1,31 +1,22 @@
 <h2 align="center">About me</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=900&size=30&pause=1000&color=A59DF9&center=true&vCenter=true&width=1300&lines=ACGaming;Secondary+Student;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=900&size=30&pause=1000&color=A59DF9&center=true&vCenter=true&width=1300&lines=ac.dev;High+School+Student;Backend+Developer)](https://git.io/typing-svg)
 
 ```ts
-class ACGaming {
-	public usernames: Record<string, string>;
-	public favouriteLanguages: string[];
-	public repositories: Record<string, number>;
-	public contributions: number;
+class acdev1508 {
+	public social: Record<string, string>;
+	public favLangs: string[];
 	public nation: string;
 	public website: string;
 	public areasOfKnowledge: string[];
 	public constructor() {
-		this.usernames = {
-			Discord: 'ACGaming', /* discriminator: #1849 */
-			Github: 'ACGaming1508',
-			StackOverflow: 'ACGaming',
-			Facebook: 'AC Gaming',
+		this.social = {
+			Github: 'acdev1508'
+			Discord: 'acdev1508',
+			StackOverflow: 'ac.dev',
 		};
-		this.areasOfKnowledge = ['Git', 'MongoDB', 'C', 'C++', 'HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript', 'Node', 'React'];
-		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
-		this.repositories = {
-			total: 12,
-			public: 6,
-			private: 6,
-		};
-		this.contributions = 285;
+		this.areasOfKnowledge = ['C++', 'JavaScript', 'TypeScript', 'Node', 'Python'];
+		this.favLangs = ['TypeScript', 'C++'];
 		this.nation = 'Viet Nam';
 		this.website = 'acgaming.is-a.dev';
 	}
@@ -33,7 +24,7 @@ class ACGaming {
 ```
 <h2 align="center">Social</h2>
 
-![Discord Card](https://discord.c99.nl/widget/theme-2/878556236797341786.png)
+![[Discord Card](https://discord.c99.nl/widget/theme-2/878556236797341786.png)](https://discord.c99.nl/widget/theme-4/1127819502663520337.png)
 
 <h2 align="center">Statistics</h2>
 
